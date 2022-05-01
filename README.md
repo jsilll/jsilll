@@ -1,2 +1,2 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsilll)](https://github.com/jsilll/github-readme-stats&count_private=true&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsilll&langs_count=8&layout=compact)](https://github.com/jsilll/github-readme-stats)
+| <a href="https://github.com/jsilll/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jsilll&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Jsilll's github stats" /></a> | <a href="https://github.com/jsilll/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsilll&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
